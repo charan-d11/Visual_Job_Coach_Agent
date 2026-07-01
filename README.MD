@@ -262,6 +262,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 Built with the mission of making job search and career coaching more accessible for visually impaired job seekers — combining conversational AI, speech technology, and thoughtful accessibility-first design.
 
 ---
+## Author
+**Durga Charan Mallick**
 
 <p align="center">
   <i>If this project helps you or someone you know, consider giving it a ⭐ on GitHub!</i>
