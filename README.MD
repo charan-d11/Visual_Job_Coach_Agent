@@ -44,7 +44,7 @@ This project was built for the **Kaggle AI Agents: Intensive Vibe Coding Capston
 
 ---
 
-
+<pre>
 
 Visual_Job_Coach_Agent/
 │
@@ -104,6 +104,7 @@ Visual_Job_Coach_Agent/
 └── requirements.txt                # Python dependencies
 
 ---
+</pre>
 
 ## 🚀 Getting Started
 
